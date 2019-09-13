@@ -536,7 +536,7 @@
     (objc-mode                          all-the-icons-faicon "apple"              :v-adjust 0.0 :height 1.0)
     (tuareg-mode                        all-the-icons-fileicon "ocaml"            :v-adjust 0.0 :height 1.0)
     (purescript-mode                    all-the-icons-fileicon "purescript"       :v-adjust 0.0 :height 1.0)
-    (d-mode                             all-the-icons-alltheicon "dlang"               :face all-the-icons-red :v-adjust -0.1 :height 0.9)
+    (d-mode                             all-the-icons-alltheicon "dlang"          :face all-the-icons-red :v-adjust -0.1 :height 0.9)
     ))
 
 (defvar all-the-icons-url-alist
