@@ -257,6 +257,8 @@
 
     ("\\.tf\\(vars\\|state\\)?$" all-the-icons-fileicon "terraform"     :height 1.0 :face all-the-icons-purple-alt)
 
+    ("\\.d$"          all-the-icons-alltheicon "dlang"               :face all-the-icons-red :v-adjust -0.1 :height 0.9)
+
     ;; There seems to be a a bug with this font icon which does not
     ;; let you propertise it without it reverting to being a lower
     ;; case phi
@@ -534,6 +536,7 @@
     (objc-mode                          all-the-icons-faicon "apple"              :v-adjust 0.0 :height 1.0)
     (tuareg-mode                        all-the-icons-fileicon "ocaml"            :v-adjust 0.0 :height 1.0)
     (purescript-mode                    all-the-icons-fileicon "purescript"       :v-adjust 0.0 :height 1.0)
+    (d-mode                             all-the-icons-alltheicon "dlang"               :face all-the-icons-red :v-adjust -0.1 :height 0.9)
     ))
 
 (defvar all-the-icons-url-alist
