@@ -257,7 +257,7 @@
 
     ("\\.tf\\(vars\\|state\\)?$" all-the-icons-fileicon "terraform"     :height 1.0 :face all-the-icons-purple-alt)
 
-    ("\\.d$"          all-the-icons-alltheicon "dlang"               :face all-the-icons-red :v-adjust -0.1 :height 0.9)
+    ("\\.d$"          all-the-icons-alltheicon "dlang"                  :face all-the-icons-red :v-adjust -0.1 :height 0.9)
 
     ;; There seems to be a a bug with this font icon which does not
     ;; let you propertise it without it reverting to being a lower
